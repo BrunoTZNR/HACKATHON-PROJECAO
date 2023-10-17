@@ -30,7 +30,7 @@ const questoes = [
         opcoes: [
             "GE", "GO", "GA", "GU"
         ],
-        opcao: "AT"
+        opcao: "GA"
     },
     {
         imagem: '../../imgs/macaco',
