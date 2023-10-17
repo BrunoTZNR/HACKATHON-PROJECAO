@@ -25,10 +25,10 @@ const questoes = [
     },
     {
         imagem: '../../imgs/gato',
-        palavra: "G__O",
+        palavra: "__TO",
         palavraCompleta: "GATO",
         opcoes: [
-            "AB", "AM", "AT", "AD"
+            "GE", "GO", "GA", "GU"
         ],
         opcao: "AT"
     },
