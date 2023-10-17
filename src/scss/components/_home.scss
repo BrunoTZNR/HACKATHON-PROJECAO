@@ -23,11 +23,12 @@
     height: 100%;
     padding: 1rem;
     display: flex;
+    justify-content: center;
     align-items: center;
     flex-flow: column nowrap;
     gap: 2rem;
 
-    img {
-        width: 30%;
+    h1 {
+        font-size: 4rem;
     }
 }
