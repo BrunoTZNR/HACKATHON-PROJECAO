@@ -3,7 +3,7 @@ O problema de que as crianças não quererem estudar sem se divertir afeta o apr
 
 ### Stack utilizada
 
-**IDE:** VS Code
+**IDE:** VS CODE 
 
 **TECNOLOGIAS:** 
 - HTML5
@@ -24,8 +24,20 @@ https://brunotznr.github.io/HACKATHON-PROJECAO/
 ### Oportunidades de negócio
 Pode ser usado em escolas ou em casa no aprendizado de crianças a partir de 6 anos para a memorização dos nomes dos animais e da estrutura de seus nomes.
 
+### Aprimoramentos
+futuramente irei complementar esse game com mais opções como frutas, objetos e etc, adicionando também um modo em inglês.
+
 ### Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## Screenshots do game
+## Screenshots
+
+- Tela inicial
+<img src="screenshots/tela-inicial.png" alt="Tela inicial">
+
+- Tela do game
+<img src="screenshots/tela-game.png" alt="Tela inicial">
+
+- Tela final
+<img src="screenshots/tela-final.png" alt="Tela inicial">
